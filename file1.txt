@@ -1,3 +1,4 @@
+untst
 line added via echo
 line added via echo >>
 new file echo
