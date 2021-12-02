@@ -1,4 +1,2 @@
-bwrwbr
-икцицк
-икцикци.
-4th line
+line added via echo
+line added via echo >>
